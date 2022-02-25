@@ -1,0 +1,61 @@
+body {
+    background-color: #FBFBF2;
+}
+
+#name {
+  font-family: VT323, monospace;
+  font-size: 80px;
+  padding-bottom: 0px;
+  color:rgb(59, 59, 59);
+}
+
+strong, h2 {
+    color:rgb(59, 59, 59);
+}
+
+p,li {
+  font-family: Montserrat, sans-serif;
+}
+
+li:nth-child(odd) {
+    color: rgb(82, 37, 37);
+}
+
+#li1 {
+  font-size: 1.5em;
+}
+
+#li2 {
+  font-size: 1.4em;
+}
+
+#li3 {
+  font-size: 1.3em;
+}
+
+#li4 {
+  font-size: 1.8em;
+}
+
+#li5 {
+  font-size: 1.3em;
+}
+
+#li6 {
+  font-size: 1.2em;
+}
+
+#nome {
+    text-align: center;
+}
+
+#foto {
+    float: left;
+    text-overflow: hidden;
+    background-color: black;
+    padding: 2px;
+}
+
+#descricao {
+
+}
